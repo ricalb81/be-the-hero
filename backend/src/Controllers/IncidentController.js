@@ -1,5 +1,3 @@
-
-const crypto = require('crypto');
 const connection = require('../database/connections');
 
 module.exports = {
